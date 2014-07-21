@@ -16,7 +16,6 @@
     "autoload": {
         "psr-4": { "Hnw\\FizzBuzz\\": "src/" }
     },
-    "minimum-stability": "dev",
     "bin": ["fizzbuzz"]
 }
 
